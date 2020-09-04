@@ -41,7 +41,7 @@
     "webpack-dev-server": "^1.8.2"
   },
   "dependencies": {
-    "react": "^0.13.3",
+    "react": "^16.13.1",
     "baconjs": "^0.7.73",
     "underscore": "^1.8.3",
     "classnames": "^2.1.3"
